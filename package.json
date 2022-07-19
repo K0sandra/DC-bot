@@ -14,6 +14,6 @@
     "images-scraper": "^6.3.0",
     "math.js": "^1.1.46",
     "mathjs": "^9.4.2",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^3.2.9"
   }
 }
