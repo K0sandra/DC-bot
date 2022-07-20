@@ -9,7 +9,7 @@
   "author": "jESSIE :)))",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.5.3",
+    "discord.js": "^14.0.3",
     "dotenv": "^10.0.0",
     "images-scraper": "^6.3.0",
     "math.js": "^1.1.46",
