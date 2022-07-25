@@ -13,7 +13,7 @@
     "dotenv": "^10.0.0",
     "images-scraper": "^6.3.0",
     "math.js": "^1.1.46",
-    "mathjs": "^9.4.2",
+    "mathjs": "^11.0.0",
     "node-fetch": "^2.6.1"
   }
 }
